@@ -10,11 +10,17 @@ excerpt: The Artificial Research Institute (IIIA, CSIC), Polytechnic University 
 ---
 
 Title: Satisfiability and Optimization with Certificate Proofs Beyond Resolution
+
 Project: "PROOFS BEYOND" funded by the Agencia Estatal de Investigación with contract PID2022-138506NB-C21
+
 IPs: Jordi Levy (levy@iiia.csic.es) and Carlos Ansótegui (carlos.ansotegui@udl.cat)
+
 Duration: 4 years to complete a PhD in Computer or Artificial Intelligence
+
 Eligibility: applicants must hold a MSc in computer science, mathematics, or physics (or related areas) at the time of application
+
 Starting Date: approximately in October 2023
+
 Location: Barcelona and Lleida (Spain)
 
 Goal: Develop new techniques for the problem of constraint satisfaction (SAT) and constraint optimization (MaxSAT), exploring new ideas based on the use of new proof systems
